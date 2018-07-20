@@ -41,7 +41,7 @@
 		"yaml-config": "~0.3.0",
 		"log": "~1.4.0",
 		"uglify-js": "~2.4.14",
-		"forever-monitor":"~1.2.3",
+		"forever-monitor":"~1.5.1",
                 "amqp":"~0.2.0",
 		"cluster":"~0.7.7"
 	},
